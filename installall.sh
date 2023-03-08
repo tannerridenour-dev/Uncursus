@@ -2,9 +2,13 @@
 if [ "$EUID" -ne 0 ]; then
 echo Please run this script as root.
 else
-echo -e "\e[31mWelcome to Uncursus Install Script V1.1 (Stable) By @Yaya4_4 Follow Me On Twitter Pls.\e[0m"
-echo "WARNING : IM NOT RESPONSABLE IF ANYTHING GOES WRONG"
-echo "If you found bug pls create an issues in github ;)"
+echo -e "\e[31mWelcome to Uncursus Install Script V0.01 (definetly not Stable) By @TannerRidenour-dev.\e[0m"
+echo "WARNING : IM NOT RESPONSABLE IF ANYTHING GOES WRONG, something will most likely go wrong :/"
+echo "If you found bug pls create an issues in github so i can make this a stable release ;)"
+echo "we shouldn't have to jailbreak a jailbreak, for the love of god Pwn and Coolstar get along we have common goals"
+echo "Sbingner you are one of the good ones we love you"
+echo "if you enjoy buy me prnhub premium"
+echo "cashapp:Tannerridenour"
 echo "Enjoy :)"
 echo "Starting..."
 echo "Installing Dependency's For The Installer"
