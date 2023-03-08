@@ -12,8 +12,10 @@ echo "(C) 2020, CoolStar. All Rights Reserved"
 
 echo ""
 echo "Before you begin: This script includes experimental migration from older bootstraps to Procursus/Odyssey."
-echo "If you're already jailbroken, you can run this script on the checkra1n device."
-echo "If you'd rather start clean, please Reset System via the Loader app first."
+echo "If you're already jailbroken, please retsore rootfs"
+echo "If you ever want to go back to the older bootstrap just restore rootfs and rejailbreak with the jailbreak of your choice"
+echo "Thank you coolstar and the odyssey team for making a newer and better bootsrap for modern devices"
+echo "Welcome to ChangeC0vers"
 read -p "Press enter to continue"
 
 if ! which curl >> /dev/null; then
