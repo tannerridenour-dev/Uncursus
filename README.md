@@ -1,6 +1,6 @@
-# Uncurus
+# ChangeC0vers
 
-Uncursus : Procursus Bootstrap On Unc0ver Jailbreak
+ChangeC0vers : Procursus Bootstrap On Unc0ver Jailbreak
 
 A9-A13 Is Supported
 
@@ -14,7 +14,7 @@ https://github.com/coolstar : For The Procursus Deploy Script
 
 Thanks To:
 
-knuckles approver#1119 For All Test And The Name Of The Project
+Me For All Test And The Name Of The Project
 
 Steps :
 
@@ -28,7 +28,7 @@ Steps :
 
 4)  Find Your Device IP And Use Your PC Or Mac To Connect SSH Over IP
 
-5) Put The Command In Your SSH Over IP Session : /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Yaya48/Uncurus/new/installall.sh)"
+5) Put The Command In Your SSH Over IP Session : /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/tannerridenour-dev/ChangeC0vers/new/installall.sh)"
 
 6) Wait. Your Device Should Respring, Launch Sileo And Profit
 
